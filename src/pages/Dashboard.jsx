@@ -3,6 +3,7 @@ import StatsCard from '../components/StatsCard.jsx'
 import products from '../data/products.js'
 import orders from '../data/orders.js'
 import customers from '../data/customers.js'
+import SearchBar from '../components/SearchBar.jsx'
 
 /**
  * Dashboard
